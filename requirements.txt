@@ -1,0 +1,30 @@
+# Core agent orchestration
+langgraph
+langchain
+langchain-community
+langchain-openai
+
+# API server and OpenAI-compatible endpoint
+fastapi
+uvicorn[standard]
+sse-starlette
+
+# Configuration and data validation
+pydantic
+pydantic-settings
+python-dotenv
+
+# Retrieval adapters
+tavily-python
+arxiv
+httpx
+
+
+# Markdown report rendering and export support
+markdown-it-py
+pygments
+playwright
+
+# Testing and development
+pytest
+pytest-asyncio
